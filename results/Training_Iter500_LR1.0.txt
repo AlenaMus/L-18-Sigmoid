@@ -1,0 +1,7 @@
+Training Results
+================
+
+Iterations: 500
+Learning Rate: 1.0
+Accuracy: 99.78%
+Final Weights: [-7.82333777  8.07853863  7.80253924]
